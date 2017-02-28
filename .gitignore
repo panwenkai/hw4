@@ -1,0 +1,9 @@
+*
+!README.txt
+!mmk
+!mko
+!arch/x86/entry/syscalls/syscall_32.tbl
+!kernel/Makefile
+!kernel/hw4.c
+!test/hw4-test.c
+!.gitignore
